@@ -10,4 +10,4 @@
 
 # Author
 
-Author:: Enrico Mraß (<enrico.mrass@gmail.com>)
+Author:: Enrico Mraß
