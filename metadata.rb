@@ -4,7 +4,7 @@ maintainer_email 'enrico.mrass@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures tippfuchs-postgresql'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
-version          '1.0.8'
+version          '1.0.9'
 
 
 depends 'postgresql', '~> 3.4.0'
